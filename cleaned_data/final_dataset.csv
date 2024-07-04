@@ -1,0 +1,181 @@
+raceId,year,round,circuitId,date,race_time,circuit_name,location,country,driverId,surname,nationality,constructorId,constructor_name,grid,positionOrder,points,laps,milliseconds,fastestLap,rank,fastestLapTime,points_driver_standings,position_driver_standings,points_constructor_standings,position_constructor_standings,position_qualifying,positionOrder_sprint,points_sprint,status
+1061,2021,10,9,1626566400,50400,Silverstone Circuit,Silverstone,UK,1,Hamilton,British,131,Mercedes,2,1,25.0,52,7103284.0,45.0,2,129.699,177.0,2,285.0,2,1,2,2,Finished
+1061,2021,10,9,1626566400,50400,Silverstone Circuit,Silverstone,UK,844,Leclerc,Monegasque,6,Ferrari,4,2,18.0,52,7107155.0,45.0,5,130.569,80.0,6,148.0,4,4,4,0,Finished
+1061,2021,10,9,1626566400,50400,Silverstone Circuit,Silverstone,UK,822,Bottas,Finnish,131,Mercedes,3,3,15.0,52,7114409.0,45.0,4,130.524,108.0,4,285.0,2,3,3,1,Finished
+1061,2021,10,9,1626566400,50400,Silverstone Circuit,Silverstone,UK,846,Norris,British,1,McLaren,5,4,12.0,52,7131857.0,44.0,9,131.42,113.0,3,163.0,3,6,5,0,Finished
+1061,2021,10,9,1626566400,50400,Silverstone Circuit,Silverstone,UK,817,Ricciardo,Australian,1,McLaren,6,5,10.0,52,7145908.0,51.0,8,131.284,50.0,8,163.0,3,7,6,0,Finished
+1061,2021,10,9,1626566400,50400,Silverstone Circuit,Silverstone,UK,832,Sainz,Spanish,6,Ferrari,10,6,8.0,52,7146738.0,51.0,7,131.223,68.0,7,148.0,4,9,11,0,Finished
+1061,2021,10,9,1626566400,50400,Silverstone Circuit,Silverstone,UK,4,Alonso,Spanish,214,Alpine F1 Team,7,7,6.0,52,7175377.0,48.0,10,131.698,26.0,11,40.0,7,11,7,0,Finished
+1061,2021,10,9,1626566400,50400,Silverstone Circuit,Silverstone,UK,840,Stroll,Canadian,117,Aston Martin,14,8,4.0,52,7177573.0,48.0,12,131.992,18.0,12,48.0,6,15,14,0,Finished
+1061,2021,10,9,1626566400,50400,Silverstone Circuit,Silverstone,UK,839,Ocon,French,214,Alpine F1 Team,9,9,2.0,52,7179446.0,48.0,14,132.21,14.0,13,40.0,7,13,10,0,Finished
+1061,2021,10,9,1626566400,50400,Silverstone Circuit,Silverstone,UK,852,Tsunoda,Japanese,213,AlphaTauri,16,10,1.0,52,7185349.0,51.0,6,130.826,10.0,14,49.0,5,16,16,0,Finished
+1061,2021,10,9,1626566400,50400,Silverstone Circuit,Silverstone,UK,842,Gasly,French,213,AlphaTauri,11,11,0.0,52,7188611.0,52.0,3,130.266,39.0,9,49.0,5,12,12,0,Finished
+1061,2021,10,9,1626566400,50400,Silverstone Circuit,Silverstone,UK,847,Russell,British,3,Williams,12,12,0.0,51,0.0,49.0,13,132.049,0.0,17,0.0,9,8,9,0,+1 Lap
+1061,2021,10,9,1626566400,50400,Silverstone Circuit,Silverstone,UK,841,Giovinazzi,Italian,51,Alfa Romeo,15,13,0.0,51,0.0,49.0,15,132.346,1.0,16,2.0,8,14,15,0,+1 Lap
+1061,2021,10,9,1626566400,50400,Silverstone Circuit,Silverstone,UK,849,Latifi,Canadian,3,Williams,17,14,0.0,51,0.0,51.0,16,132.477,0.0,19,0.0,9,18,17,0,+1 Lap
+1061,2021,10,9,1626566400,50400,Silverstone Circuit,Silverstone,UK,8,Räikkönen,Finnish,51,Alfa Romeo,13,15,0.0,51,0.0,48.0,11,131.895,1.0,15,2.0,8,17,13,0,+1 Lap
+1061,2021,10,9,1626566400,50400,Silverstone Circuit,Silverstone,UK,815,Pérez,Mexican,9,Red Bull,0,16,0.0,51,0.0,50.0,1,128.617,104.0,5,289.0,1,5,20,0,+1 Lap
+1061,2021,10,9,1626566400,50400,Silverstone Circuit,Silverstone,UK,853,Mazepin,Russian,210,Haas F1 Team,19,17,0.0,51,0.0,51.0,18,132.909,0.0,20,0.0,10,20,19,0,+1 Lap
+1061,2021,10,9,1626566400,50400,Silverstone Circuit,Silverstone,UK,854,Schumacher,German,210,Haas F1 Team,18,18,0.0,51,0.0,50.0,17,132.862,0.0,18,0.0,10,19,18,0,+1 Lap
+1061,2021,10,9,1626566400,50400,Silverstone Circuit,Silverstone,UK,20,Vettel,German,117,Aston Martin,8,19,0.0,40,0.0,35.0,19,133.059,30.0,10,48.0,6,10,8,0,Retired
+1061,2021,10,9,1626566400,50400,Silverstone Circuit,Silverstone,UK,830,Verstappen,Dutch,9,Red Bull,1,20,0.0,0,0.0,,0,0.0,185.0,1,289.0,1,2,1,3,Collision
+1065,2021,14,14,1631404800,46800,Autodromo Nazionale di Monza,Monza,Italy,817,Ricciardo,Australian,1,McLaren,2,1,26.0,53,4914365.0,53.0,1,124.812,83.0,8,215.0,3,5,3,1,Finished
+1065,2021,14,14,1631404800,46800,Autodromo Nazionale di Monza,Monza,Italy,846,Norris,British,1,McLaren,3,2,18.0,53,4916112.0,53.0,3,124.971,132.0,4,215.0,3,4,4,0,Finished
+1065,2021,14,14,1631404800,46800,Autodromo Nazionale di Monza,Monza,Italy,822,Bottas,Finnish,131,Mercedes,19,3,15.0,53,4919286.0,34.0,2,124.827,141.0,3,362.5,1,1,1,3,Finished
+1065,2021,14,14,1631404800,46800,Autodromo Nazionale di Monza,Monza,Italy,844,Leclerc,Monegasque,6,Ferrari,5,4,12.0,53,4921674.0,53.0,6,125.319,104.0,6,201.5,4,8,6,0,Finished
+1065,2021,14,14,1631404800,46800,Autodromo Nazionale di Monza,Monza,Italy,815,Pérez,Mexican,9,Red Bull,8,5,10.0,53,4923088.0,53.0,4,125.156,118.0,5,344.5,2,9,9,0,Finished
+1065,2021,14,14,1631404800,46800,Autodromo Nazionale di Monza,Monza,Italy,832,Sainz,Spanish,6,Ferrari,6,6,8.0,53,4924900.0,53.0,8,125.559,97.5,7,201.5,4,7,7,0,Finished
+1065,2021,14,14,1631404800,46800,Autodromo Nazionale di Monza,Monza,Italy,840,Stroll,Canadian,117,Aston Martin,9,7,6.0,53,4930169.0,52.0,13,125.853,24.0,13,59.0,7,12,10,0,Finished
+1065,2021,14,14,1631404800,46800,Autodromo Nazionale di Monza,Monza,Italy,4,Alonso,Spanish,214,Alpine F1 Team,10,8,4.0,53,4931566.0,52.0,7,125.472,50.0,10,95.0,5,13,11,0,Finished
+1065,2021,14,14,1631404800,46800,Autodromo Nazionale di Monza,Monza,Italy,847,Russell,British,3,Williams,14,9,2.0,53,4934107.0,53.0,11,125.835,15.0,15,22.0,8,15,15,0,Finished
+1065,2021,14,14,1631404800,46800,Autodromo Nazionale di Monza,Monza,Italy,839,Ocon,French,214,Alpine F1 Team,12,10,1.0,53,4935233.0,53.0,9,125.566,45.0,11,95.0,5,14,13,0,Finished
+1065,2021,14,14,1631404800,46800,Autodromo Nazionale di Monza,Monza,Italy,849,Latifi,Canadian,3,Williams,13,11,0.0,53,4938108.0,50.0,16,125.953,7.0,16,22.0,8,16,14,0,Finished
+1065,2021,14,14,1631404800,46800,Autodromo Nazionale di Monza,Monza,Italy,20,Vettel,German,117,Aston Martin,11,12,0.0,53,4938986.0,50.0,15,125.938,35.0,12,59.0,7,11,12,0,Finished
+1065,2021,14,14,1631404800,46800,Autodromo Nazionale di Monza,Monza,Italy,841,Giovinazzi,Italian,51,Alfa Romeo,7,13,0.0,53,4941581.0,50.0,10,125.718,1.0,18,3.0,9,10,8,0,Finished
+1065,2021,14,14,1631404800,46800,Autodromo Nazionale di Monza,Monza,Italy,9,Kubica,Polish,51,Alfa Romeo,17,14,0.0,53,4944134.0,53.0,12,125.849,0.0,20,3.0,9,19,18,0,Finished
+1065,2021,14,14,1631404800,46800,Autodromo Nazionale di Monza,Monza,Italy,854,Schumacher,German,210,Haas F1 Team,18,15,0.0,53,4965453.0,52.0,17,126.707,0.0,19,0.0,10,18,19,0,Finished
+1065,2021,14,14,1631404800,46800,Autodromo Nazionale di Monza,Monza,Italy,853,Mazepin,Russian,210,Haas F1 Team,16,16,0.0,41,0.0,41.0,18,127.202,0.0,21,0.0,10,20,17,0,Power Unit
+1065,2021,14,14,1631404800,46800,Autodromo Nazionale di Monza,Monza,Italy,1,Hamilton,British,131,Mercedes,4,17,0.0,25,0.0,3.0,14,125.87,221.5,2,362.5,1,2,5,0,Collision
+1065,2021,14,14,1631404800,46800,Autodromo Nazionale di Monza,Monza,Italy,830,Verstappen,Dutch,9,Red Bull,1,18,0.0,25,0.0,25.0,5,125.173,226.5,1,344.5,2,3,2,2,Collision
+1065,2021,14,14,1631404800,46800,Autodromo Nazionale di Monza,Monza,Italy,842,Gasly,French,213,AlphaTauri,0,19,0.0,3,0.0,2.0,19,129.005,66.0,9,84.0,6,6,20,0,Suspension
+1065,2021,14,14,1631404800,46800,Autodromo Nazionale di Monza,Monza,Italy,852,Tsunoda,Japanese,213,AlphaTauri,0,20,0.0,0,0.0,,0,0.0,18.0,14,84.0,6,17,16,0,Brakes
+1071,2021,19,18,1636848000,61200,Autódromo José Carlos Pace,São Paulo,Brazil,1,Hamilton,British,131,Mercedes,10,1,25.0,71,5542851.0,46.0,2,111.982,318.5,2,521.5,1,1,5,0,Finished
+1071,2021,19,18,1636848000,61200,Autódromo José Carlos Pace,São Paulo,Brazil,830,Verstappen,Dutch,9,Red Bull,2,2,18.0,71,5553347.0,47.0,3,112.486,332.5,1,510.5,2,2,2,2,Finished
+1071,2021,19,18,1636848000,61200,Autódromo José Carlos Pace,São Paulo,Brazil,822,Bottas,Finnish,131,Mercedes,1,3,15.0,71,5556427.0,49.0,4,112.526,203.0,3,521.5,1,3,1,3,Finished
+1071,2021,19,18,1636848000,61200,Autódromo José Carlos Pace,São Paulo,Brazil,815,Pérez,Mexican,9,Red Bull,4,4,13.0,71,5582791.0,71.0,1,111.01,178.0,4,510.5,2,4,4,0,Finished
+1071,2021,19,18,1636848000,61200,Autódromo José Carlos Pace,São Paulo,Brazil,844,Leclerc,Monegasque,6,Ferrari,6,5,10.0,71,5592368.0,61.0,7,112.822,148.0,6,287.5,3,7,7,0,Finished
+1071,2021,19,18,1636848000,61200,Autódromo José Carlos Pace,São Paulo,Brazil,832,Sainz,Spanish,6,Ferrari,3,6,8.0,71,5594671.0,63.0,6,112.71,139.5,7,287.5,3,6,3,1,Finished
+1071,2021,19,18,1636848000,61200,Autódromo José Carlos Pace,São Paulo,Brazil,842,Gasly,French,213,AlphaTauri,7,7,6.0,70,0.0,53.0,8,113.227,92.0,9,112.0,6,5,8,0,+1 Lap
+1071,2021,19,18,1636848000,61200,Autódromo José Carlos Pace,São Paulo,Brazil,839,Ocon,French,214,Alpine F1 Team,8,8,4.0,70,0.0,48.0,16,114.43,50.0,11,112.0,5,11,9,0,+1 Lap
+1071,2021,19,18,1636848000,61200,Autódromo José Carlos Pace,São Paulo,Brazil,4,Alonso,Spanish,214,Alpine F1 Team,12,9,2.0,70,0.0,37.0,12,113.922,62.0,10,112.0,5,10,12,0,+1 Lap
+1071,2021,19,18,1636848000,61200,Autódromo José Carlos Pace,São Paulo,Brazil,846,Norris,British,1,McLaren,5,10,1.0,70,0.0,53.0,10,113.761,151.0,5,256.0,4,8,6,0,+1 Lap
+1071,2021,19,18,1636848000,61200,Autódromo José Carlos Pace,São Paulo,Brazil,20,Vettel,German,117,Aston Martin,9,11,0.0,70,0.0,69.0,9,113.634,42.0,12,68.0,7,12,10,0,+1 Lap
+1071,2021,19,18,1636848000,61200,Autódromo José Carlos Pace,São Paulo,Brazil,8,Räikkönen,Finnish,51,Alfa Romeo,0,12,0.0,70,0.0,54.0,5,112.621,10.0,16,11.0,9,14,18,0,+1 Lap
+1071,2021,19,18,1636848000,61200,Autódromo José Carlos Pace,São Paulo,Brazil,847,Russell,British,3,Williams,17,13,0.0,70,0.0,45.0,15,114.355,16.0,15,23.0,8,18,17,0,+1 Lap
+1071,2021,19,18,1636848000,61200,Autódromo José Carlos Pace,São Paulo,Brazil,841,Giovinazzi,Italian,51,Alfa Romeo,13,14,0.0,70,0.0,44.0,14,114.227,1.0,18,11.0,9,15,13,0,+1 Lap
+1071,2021,19,18,1636848000,61200,Autódromo José Carlos Pace,São Paulo,Brazil,852,Tsunoda,Japanese,213,AlphaTauri,15,15,0.0,70,0.0,62.0,13,114.204,20.0,14,112.0,6,13,15,0,+1 Lap
+1071,2021,19,18,1636848000,61200,Autódromo José Carlos Pace,São Paulo,Brazil,849,Latifi,Canadian,3,Williams,16,16,0.0,70,0.0,57.0,18,114.616,7.0,17,23.0,8,17,16,0,+1 Lap
+1071,2021,19,18,1636848000,61200,Autódromo José Carlos Pace,São Paulo,Brazil,853,Mazepin,Russian,210,Haas F1 Team,19,17,0.0,69,0.0,36.0,19,114.954,0.0,21,0.0,10,20,20,0,+2 Laps
+1071,2021,19,18,1636848000,61200,Autódromo José Carlos Pace,São Paulo,Brazil,854,Schumacher,German,210,Haas F1 Team,18,18,0.0,69,0.0,66.0,11,113.793,0.0,19,0.0,10,19,19,0,+2 Laps
+1071,2021,19,18,1636848000,61200,Autódromo José Carlos Pace,São Paulo,Brazil,817,Ricciardo,Australian,1,McLaren,11,19,0.0,49,0.0,40.0,17,114.443,105.0,8,256.0,4,9,11,0,Power loss
+1071,2021,19,18,1636848000,61200,Autódromo José Carlos Pace,São Paulo,Brazil,840,Stroll,Canadian,117,Aston Martin,14,20,0.0,47,0.0,25.0,20,115.344,26.0,13,68.0,7,16,14,0,Collision damage
+1077,2022,4,21,1650758400,46800,Autodromo Enzo e Dino Ferrari,Imola,Italy,830,Verstappen,Dutch,9,Red Bull,1,1,26.0,63,5527986.0,55.0,1,118.446,59.0,2,113.0,2,1,1,8,Finished
+1077,2022,4,21,1650758400,46800,Autodromo Enzo e Dino Ferrari,Imola,Italy,815,Pérez,Mexican,9,Red Bull,3,2,18.0,63,5544513.0,52.0,3,118.949,54.0,3,113.0,2,7,3,6,Finished
+1077,2022,4,21,1650758400,46800,Autodromo Enzo e Dino Ferrari,Imola,Italy,846,Norris,British,1,McLaren,5,3,15.0,63,5562820.0,61.0,7,120.903,35.0,6,46.0,4,3,5,4,Finished
+1077,2022,4,21,1650758400,46800,Autodromo Enzo e Dino Ferrari,Imola,Italy,847,Russell,British,131,Mercedes,11,4,12.0,63,5570492.0,57.0,8,120.962,49.0,4,77.0,3,11,11,0,Finished
+1077,2022,4,21,1650758400,46800,Autodromo Enzo e Dino Ferrari,Imola,Italy,822,Bottas,Finnish,51,Alfa Romeo,7,5,10.0,63,5571167.0,43.0,6,120.758,24.0,8,25.0,5,8,7,2,Finished
+1077,2022,4,21,1650758400,46800,Autodromo Enzo e Dino Ferrari,Imola,Italy,844,Leclerc,Monegasque,6,Ferrari,2,6,8.0,63,5584058.0,63.0,2,118.574,86.0,1,124.0,1,2,2,7,Finished
+1077,2022,4,21,1650758400,46800,Autodromo Enzo e Dino Ferrari,Imola,Italy,852,Tsunoda,Japanese,213,AlphaTauri,12,7,6.0,63,5589096.0,61.0,5,120.544,10.0,12,16.0,7,16,12,0,Finished
+1077,2022,4,21,1650758400,46800,Autodromo Enzo e Dino Ferrari,Imola,Italy,20,Vettel,German,117,Aston Martin,13,8,4.0,63,5598878.0,47.0,9,121.211,4.0,14,5.0,9,9,13,0,Finished
+1077,2022,4,21,1650758400,46800,Autodromo Enzo e Dino Ferrari,Imola,Italy,825,Magnussen,Danish,210,Haas F1 Team,8,9,2.0,63,5603246.0,61.0,10,121.238,15.0,10,15.0,8,4,8,1,Finished
+1077,2022,4,21,1650758400,46800,Autodromo Enzo e Dino Ferrari,Imola,Italy,840,Stroll,Canadian,117,Aston Martin,15,10,1.0,62,0.0,46.0,16,121.75,1.0,18,5.0,9,15,15,0,+1 Lap
+1077,2022,4,21,1650758400,46800,Autodromo Enzo e Dino Ferrari,Imola,Italy,848,Albon,Thai,3,Williams,18,11,0.0,62,0.0,61.0,17,121.757,1.0,17,1.0,10,20,18,0,+1 Lap
+1077,2022,4,21,1650758400,46800,Autodromo Enzo e Dino Ferrari,Imola,Italy,842,Gasly,French,213,AlphaTauri,17,12,0.0,62,0.0,34.0,15,121.713,6.0,13,16.0,7,17,17,0,+1 Lap
+1077,2022,4,21,1650758400,46800,Autodromo Enzo e Dino Ferrari,Imola,Italy,1,Hamilton,British,131,Mercedes,14,13,0.0,62,0.0,50.0,13,121.419,28.0,7,77.0,3,13,14,0,+1 Lap
+1077,2022,4,21,1650758400,46800,Autodromo Enzo e Dino Ferrari,Imola,Italy,839,Ocon,French,214,Alpine F1 Team,16,14,0.0,62,0.0,37.0,18,121.887,20.0,9,22.0,6,19,16,0,+1 Lap
+1077,2022,4,21,1650758400,46800,Autodromo Enzo e Dino Ferrari,Imola,Italy,855,Zhou,Chinese,51,Alfa Romeo,0,15,0.0,62,0.0,61.0,11,121.286,1.0,16,25.0,5,14,20,0,+1 Lap
+1077,2022,4,21,1650758400,46800,Autodromo Enzo e Dino Ferrari,Imola,Italy,849,Latifi,Canadian,3,Williams,19,16,0.0,62,0.0,62.0,12,121.338,0.0,21,1.0,10,18,19,0,+1 Lap
+1077,2022,4,21,1650758400,46800,Autodromo Enzo e Dino Ferrari,Imola,Italy,854,Schumacher,German,210,Haas F1 Team,10,17,0.0,62,0.0,55.0,4,118.999,0.0,19,15.0,8,12,10,0,+1 Lap
+1077,2022,4,21,1650758400,46800,Autodromo Enzo e Dino Ferrari,Imola,Italy,817,Ricciardo,Australian,1,McLaren,6,18,0.0,62,0.0,61.0,14,121.577,11.0,11,46.0,4,6,6,3,+1 Lap
+1077,2022,4,21,1650758400,46800,Autodromo Enzo e Dino Ferrari,Imola,Italy,4,Alonso,Spanish,214,Alpine F1 Team,9,19,0.0,6,0.0,5.0,19,139.685,2.0,15,22.0,6,5,9,0,Collision damage
+1077,2022,4,21,1650758400,46800,Autodromo Enzo e Dino Ferrari,Imola,Italy,832,Sainz,Spanish,6,Ferrari,4,20,0.0,0,0.0,,0,0.0,38.0,5,124.0,1,10,4,5,Collision
+1084,2022,11,70,1657411200,46800,Red Bull Ring,Spielberg,Austria,844,Leclerc,Monegasque,6,Ferrari,2,1,25.0,71,5064312.0,62.0,2,107.583,170.0,2,303.0,2,2,2,7,Finished
+1084,2022,11,70,1657411200,46800,Red Bull Ring,Spielberg,Austria,830,Verstappen,Dutch,9,Red Bull,1,2,19.0,71,5065844.0,62.0,1,107.275,208.0,1,359.0,1,1,1,8,Finished
+1084,2022,11,70,1657411200,46800,Red Bull Ring,Spielberg,Austria,1,Hamilton,British,131,Mercedes,8,3,15.0,71,5105529.0,63.0,5,109.0,109.0,6,237.0,3,9,8,1,Finished
+1084,2022,11,70,1657411200,46800,Red Bull Ring,Spielberg,Austria,847,Russell,British,131,Mercedes,4,4,12.0,71,5123284.0,61.0,6,109.075,128.0,5,237.0,3,4,4,5,Finished
+1084,2022,11,70,1657411200,46800,Red Bull Ring,Spielberg,Austria,839,Ocon,French,214,Alpine F1 Team,6,5,10.0,71,5132748.0,62.0,10,109.559,52.0,8,81.0,5,5,6,3,Finished
+1084,2022,11,70,1657411200,46800,Red Bull Ring,Spielberg,Austria,854,Schumacher,German,210,Haas F1 Team,9,6,8.0,70,0.0,50.0,11,109.625,12.0,15,34.0,7,7,9,0,+1 Lap
+1084,2022,11,70,1657411200,46800,Red Bull Ring,Spielberg,Austria,846,Norris,British,1,McLaren,10,7,6.0,70,0.0,62.0,8,109.304,64.0,7,81.0,4,15,11,0,+1 Lap
+1084,2022,11,70,1657411200,46800,Red Bull Ring,Spielberg,Austria,825,Magnussen,Danish,210,Haas F1 Team,7,8,4.0,70,0.0,61.0,14,109.938,22.0,11,34.0,7,6,7,2,+1 Lap
+1084,2022,11,70,1657411200,46800,Red Bull Ring,Spielberg,Austria,817,Ricciardo,Australian,1,McLaren,11,9,2.0,70,0.0,61.0,13,109.924,17.0,12,81.0,4,16,12,0,+1 Lap
+1084,2022,11,70,1657411200,46800,Red Bull Ring,Spielberg,Austria,4,Alonso,Spanish,214,Alpine F1 Team,19,10,1.0,70,0.0,62.0,3,108.558,29.0,10,81.0,5,8,20,0,+1 Lap
+1084,2022,11,70,1657411200,46800,Red Bull Ring,Spielberg,Austria,822,Bottas,Finnish,51,Alfa Romeo,0,11,0.0,70,0.0,61.0,7,109.266,46.0,9,51.0,6,12,10,0,+1 Lap
+1084,2022,11,70,1657411200,46800,Red Bull Ring,Spielberg,Austria,848,Albon,Thai,3,Williams,15,12,0.0,70,0.0,60.0,12,109.669,3.0,18,3.0,10,11,16,0,+1 Lap
+1084,2022,11,70,1657411200,46800,Red Bull Ring,Spielberg,Austria,840,Stroll,Canadian,117,Aston Martin,12,13,0.0,70,0.0,64.0,17,110.048,3.0,19,18.0,9,17,13,0,+1 Lap
+1084,2022,11,70,1657411200,46800,Red Bull Ring,Spielberg,Austria,855,Zhou,Chinese,51,Alfa Romeo,13,14,0.0,70,0.0,50.0,9,109.38,5.0,17,51.0,6,18,14,0,+1 Lap
+1084,2022,11,70,1657411200,46800,Red Bull Ring,Spielberg,Austria,842,Gasly,French,213,AlphaTauri,14,15,0.0,70,0.0,61.0,18,110.104,16.0,13,27.0,8,10,15,0,+1 Lap
+1084,2022,11,70,1657411200,46800,Red Bull Ring,Spielberg,Austria,852,Tsunoda,Japanese,213,AlphaTauri,16,16,0.0,70,0.0,62.0,16,110.023,11.0,16,27.0,8,14,17,0,+1 Lap
+1084,2022,11,70,1657411200,46800,Red Bull Ring,Spielberg,Austria,20,Vettel,German,117,Aston Martin,18,17,0.0,70,0.0,62.0,15,110.001,15.0,14,18.0,9,20,19,0,+1 Lap
+1084,2022,11,70,1657411200,46800,Red Bull Ring,Spielberg,Austria,832,Sainz,Spanish,6,Ferrari,3,18,0.0,56,0.0,55.0,4,108.649,133.0,4,303.0,2,3,3,6,Power Unit
+1084,2022,11,70,1657411200,46800,Red Bull Ring,Spielberg,Austria,849,Latifi,Canadian,3,Williams,17,19,0.0,48,0.0,14.0,19,110.89,0.0,20,3.0,10,19,18,0,Undertray
+1084,2022,11,70,1657411200,46800,Red Bull Ring,Spielberg,Austria,815,Pérez,Mexican,9,Red Bull,5,20,0.0,24,0.0,5.0,20,111.843,151.0,3,359.0,1,13,5,4,Collision damage
+1095,2022,21,18,1668297600,64800,Autódromo José Carlos Pace,São Paulo,Brazil,847,Russell,British,131,Mercedes,1,1,26.0,71,5914044.0,61.0,1,113.785,265.0,4,505.0,3,3,1,8,Finished
+1095,2022,21,18,1668297600,64800,Autódromo José Carlos Pace,São Paulo,Brazil,1,Hamilton,British,131,Mercedes,2,2,18.0,71,5915573.0,63.0,2,113.942,240.0,5,505.0,3,8,3,6,Finished
+1095,2022,21,18,1668297600,64800,Autódromo José Carlos Pace,São Paulo,Brazil,832,Sainz,Spanish,6,Ferrari,7,3,15.0,71,5918095.0,65.0,3,113.953,234.0,6,524.0,2,5,2,7,Finished
+1095,2022,21,18,1668297600,64800,Autódromo José Carlos Pace,São Paulo,Brazil,844,Leclerc,Monegasque,6,Ferrari,5,4,12.0,71,5922485.0,63.0,6,114.253,290.0,2,524.0,2,10,6,3,Finished
+1095,2022,21,18,1668297600,64800,Autódromo José Carlos Pace,São Paulo,Brazil,4,Alonso,Spanish,214,Alpine F1 Team,17,5,10.0,71,5923605.0,62.0,4,114.164,81.0,9,167.0,4,7,18,0,Finished
+1095,2022,21,18,1668297600,64800,Autódromo José Carlos Pace,São Paulo,Brazil,830,Verstappen,Dutch,9,Red Bull,3,6,8.0,71,5924100.0,64.0,5,114.195,429.0,1,719.0,1,2,4,5,Finished
+1095,2022,21,18,1668297600,64800,Autódromo José Carlos Pace,São Paulo,Brazil,815,Pérez,Mexican,9,Red Bull,4,7,6.0,71,5928124.0,62.0,7,114.283,290.0,3,719.0,1,9,5,4,Finished
+1095,2022,21,18,1668297600,64800,Autódromo José Carlos Pace,São Paulo,Brazil,839,Ocon,French,214,Alpine F1 Team,16,8,4.0,71,5932734.0,65.0,9,115.093,86.0,8,167.0,4,6,17,0,Finished
+1095,2022,21,18,1668297600,64800,Autódromo José Carlos Pace,São Paulo,Brazil,822,Bottas,Finnish,51,Alfa Romeo,14,9,2.0,71,5936596.0,62.0,14,115.511,49.0,10,55.0,6,18,14,0,Finished
+1095,2022,21,18,1668297600,64800,Autódromo José Carlos Pace,São Paulo,Brazil,840,Stroll,Canadian,117,Aston Martin,15,10,1.0,71,5937596.0,50.0,8,114.831,14.0,15,50.0,7,15,16,0,Finished
+1095,2022,21,18,1668297600,64800,Autódromo José Carlos Pace,São Paulo,Brazil,20,Vettel,German,117,Aston Martin,9,11,0.0,71,5940227.0,64.0,15,115.549,36.0,11,50.0,7,13,9,0,Finished
+1095,2022,21,18,1668297600,64800,Autódromo José Carlos Pace,São Paulo,Brazil,855,Zhou,Chinese,51,Alfa Romeo,13,12,0.0,71,5943369.0,64.0,17,115.802,6.0,18,55.0,6,17,13,0,Finished
+1095,2022,21,18,1668297600,64800,Autódromo José Carlos Pace,São Paulo,Brazil,854,Schumacher,German,210,Haas F1 Team,12,13,0.0,71,5943943.0,63.0,10,115.251,12.0,16,37.0,8,20,12,0,Finished
+1095,2022,21,18,1668297600,64800,Autódromo José Carlos Pace,São Paulo,Brazil,842,Gasly,French,213,AlphaTauri,10,14,0.0,71,5945911.0,64.0,12,115.327,23.0,14,35.0,9,12,10,0,Finished
+1095,2022,21,18,1668297600,64800,Autódromo José Carlos Pace,São Paulo,Brazil,848,Albon,Thai,3,Williams,19,15,0.0,71,5950060.0,49.0,16,115.613,4.0,19,8.0,10,11,20,0,Finished
+1095,2022,21,18,1668297600,64800,Autódromo José Carlos Pace,São Paulo,Brazil,849,Latifi,Canadian,3,Williams,18,16,0.0,71,5951082.0,59.0,11,115.327,2.0,20,8.0,10,16,19,0,Finished
+1095,2022,21,18,1668297600,64800,Autódromo José Carlos Pace,São Paulo,Brazil,852,Tsunoda,Japanese,213,AlphaTauri,0,17,0.0,70,0.0,63.0,13,115.508,12.0,17,35.0,9,19,15,0,+1 Lap
+1095,2022,21,18,1668297600,64800,Autódromo José Carlos Pace,São Paulo,Brazil,846,Norris,British,1,McLaren,6,18,0.0,50,0.0,48.0,18,115.855,113.0,7,148.0,5,4,7,2,Gearbox
+1095,2022,21,18,1668297600,64800,Autódromo José Carlos Pace,São Paulo,Brazil,825,Magnussen,Danish,210,Haas F1 Team,8,19,0.0,0,0.0,,0,0.0,25.0,13,37.0,8,1,8,1,Collision
+1095,2022,21,18,1668297600,64800,Autódromo José Carlos Pace,São Paulo,Brazil,817,Ricciardo,Australian,1,McLaren,11,20,0.0,0,0.0,,0,0.0,35.0,12,148.0,5,14,11,0,Collision
+1101,2023,4,73,1682812800,39600,Baku City Circuit,Baku,Azerbaijan,815,Pérez,Mexican,9,Red Bull,3,1,25.0,51,5562436.0,50.0,5,144.589,87.0,2,180.0,1,3,1,8,Finished
+1101,2023,4,73,1682812800,39600,Baku City Circuit,Baku,Azerbaijan,830,Verstappen,Dutch,9,Red Bull,2,2,18.0,51,5564573.0,51.0,2,144.232,93.0,1,180.0,1,2,3,6,Finished
+1101,2023,4,73,1682812800,39600,Baku City Circuit,Baku,Azerbaijan,844,Leclerc,Monegasque,6,Ferrari,1,3,15.0,51,5583653.0,49.0,4,144.561,28.0,6,62.0,4,1,2,7,Finished
+1101,2023,4,73,1682812800,39600,Baku City Circuit,Baku,Azerbaijan,4,Alonso,Spanish,117,Aston Martin,6,4,12.0,51,5584460.0,49.0,3,144.241,60.0,3,87.0,2,6,6,3,Finished
+1101,2023,4,73,1682812800,39600,Baku City Circuit,Baku,Azerbaijan,832,Sainz,Spanish,6,Ferrari,4,5,10.0,51,5607927.0,48.0,6,145.175,34.0,5,62.0,4,4,5,4,Finished
+1101,2023,4,73,1682812800,39600,Baku City Circuit,Baku,Azerbaijan,1,Hamilton,British,131,Mercedes,5,6,8.0,51,5608581.0,48.0,7,145.346,48.0,4,76.0,3,5,7,2,Finished
+1101,2023,4,73,1682812800,39600,Baku City Circuit,Baku,Azerbaijan,840,Stroll,Canadian,117,Aston Martin,9,7,6.0,51,5614053.0,45.0,9,145.627,27.0,8,87.0,2,9,8,1,Finished
+1101,2023,4,73,1682812800,39600,Baku City Circuit,Baku,Azerbaijan,847,Russell,British,131,Mercedes,11,8,5.0,51,5636676.0,51.0,1,143.37,28.0,7,76.0,3,11,4,5,Finished
+1101,2023,4,73,1682812800,39600,Baku City Circuit,Baku,Azerbaijan,846,Norris,British,1,McLaren,7,9,2.0,51,5642812.0,49.0,12,145.738,10.0,9,14.0,5,7,17,0,Finished
+1101,2023,4,73,1682812800,39600,Baku City Circuit,Baku,Azerbaijan,852,Tsunoda,Japanese,213,AlphaTauri,8,10,1.0,51,5646298.0,51.0,11,145.727,2.0,16,2.0,9,8,19,0,Finished
+1101,2023,4,73,1682812800,39600,Baku City Circuit,Baku,Azerbaijan,857,Piastri,Australian,1,McLaren,10,11,0.0,51,5648937.0,51.0,10,145.631,4.0,11,14.0,5,10,10,0,Finished
+1101,2023,4,73,1682812800,39600,Baku City Circuit,Baku,Azerbaijan,848,Albon,Thai,3,Williams,12,12,0.0,51,5651059.0,51.0,15,145.925,1.0,17,1.0,10,13,9,0,Finished
+1101,2023,4,73,1682812800,39600,Baku City Circuit,Baku,Azerbaijan,825,Magnussen,Danish,210,Haas F1 Team,16,13,0.0,51,5652165.0,51.0,13,145.85,1.0,18,7.0,7,18,11,0,Finished
+1101,2023,4,73,1682812800,39600,Baku City Circuit,Baku,Azerbaijan,842,Gasly,French,214,Alpine F1 Team,17,14,0.0,51,5653768.0,47.0,8,145.54,4.0,14,8.0,6,19,13,0,Finished
+1101,2023,4,73,1682812800,39600,Baku City Circuit,Baku,Azerbaijan,839,Ocon,French,214,Alpine F1 Team,0,15,0.0,51,5660230.0,49.0,14,145.908,4.0,13,8.0,6,12,18,0,Finished
+1101,2023,4,73,1682812800,39600,Baku City Circuit,Baku,Azerbaijan,858,Sargeant,American,3,Williams,14,16,0.0,51,5663379.0,49.0,17,146.501,0.0,19,1.0,10,15,20,0,Finished
+1101,2023,4,73,1682812800,39600,Baku City Circuit,Baku,Azerbaijan,807,Hülkenberg,German,210,Haas F1 Team,0,17,0.0,50,0.0,34.0,18,146.731,6.0,10,7.0,7,17,15,0,+1 Lap
+1101,2023,4,73,1682812800,39600,Baku City Circuit,Baku,Azerbaijan,822,Bottas,Finnish,51,Alfa Romeo,13,18,0.0,50,0.0,36.0,16,146.304,4.0,12,6.0,8,14,16,0,+1 Lap
+1101,2023,4,73,1682812800,39600,Baku City Circuit,Baku,Azerbaijan,855,Zhou,Chinese,51,Alfa Romeo,15,19,0.0,36,0.0,31.0,19,147.553,2.0,15,6.0,8,16,12,0,Overheating
+1101,2023,4,73,1682812800,39600,Baku City Circuit,Baku,Azerbaijan,856,de Vries,Dutch,213,AlphaTauri,18,20,0.0,9,0.0,4.0,20,148.781,0.0,20,2.0,9,20,14,0,Accident
+1107,2023,9,70,1688256000,46800,Red Bull Ring,Spielberg,Austria,830,Verstappen,Dutch,9,Red Bull,1,1,26.0,71,5133607.0,71.0,1,107.012,229.0,1,377.0,1,1,1,8,Finished
+1107,2023,9,70,1688256000,46800,Red Bull Ring,Spielberg,Austria,844,Leclerc,Monegasque,6,Ferrari,2,2,18.0,71,5138762.0,51.0,5,108.82,72.0,6,154.0,4,2,12,0,Finished
+1107,2023,9,70,1688256000,46800,Red Bull Ring,Spielberg,Austria,815,Pérez,Mexican,9,Red Bull,15,3,15.0,71,5150795.0,52.0,2,108.111,148.0,2,377.0,1,15,2,7,Finished
+1107,2023,9,70,1688256000,46800,Red Bull Ring,Spielberg,Austria,846,Norris,British,1,McLaren,4,4,12.0,71,5159934.0,50.0,6,108.88,24.0,10,29.0,6,4,9,0,Finished
+1107,2023,9,70,1688256000,46800,Red Bull Ring,Spielberg,Austria,4,Alonso,Spanish,117,Aston Martin,7,5,10.0,71,5163924.0,48.0,4,108.739,131.0,3,175.0,3,7,5,4,Finished
+1107,2023,9,70,1688256000,46800,Red Bull Ring,Spielberg,Austria,832,Sainz,Spanish,6,Ferrari,3,6,8.0,71,5164984.0,54.0,8,109.108,82.0,5,154.0,4,3,3,6,Finished
+1107,2023,9,70,1688256000,46800,Red Bull Ring,Spielberg,Austria,847,Russell,British,131,Mercedes,11,7,6.0,71,5182010.0,48.0,9,109.16,72.0,7,178.0,2,11,8,1,Finished
+1107,2023,9,70,1688256000,46800,Red Bull Ring,Spielberg,Austria,1,Hamilton,British,131,Mercedes,5,8,4.0,71,5182803.0,49.0,10,109.283,106.0,4,178.0,2,5,10,0,Finished
+1107,2023,9,70,1688256000,46800,Red Bull Ring,Spielberg,Austria,840,Stroll,Canadian,117,Aston Martin,6,9,2.0,71,5192650.0,48.0,7,109.046,44.0,8,175.0,3,6,4,5,Finished
+1107,2023,9,70,1688256000,46800,Red Bull Ring,Spielberg,Austria,842,Gasly,French,214,Alpine F1 Team,9,10,1.0,71,5201274.0,57.0,3,108.463,16.0,11,47.0,5,9,15,0,Finished
+1107,2023,9,70,1688256000,46800,Red Bull Ring,Spielberg,Austria,848,Albon,Thai,3,Williams,10,11,0.0,71,5213374.0,53.0,11,109.56,7.0,13,7.0,9,10,13,0,Finished
+1107,2023,9,70,1688256000,46800,Red Bull Ring,Spielberg,Austria,855,Zhou,Chinese,51,Alfa Romeo,17,12,0.0,70,0.0,50.0,15,109.797,4.0,16,9.0,8,17,19,0,+1 Lap
+1107,2023,9,70,1688256000,46800,Red Bull Ring,Spielberg,Austria,858,Sargeant,American,3,Williams,18,13,0.0,70,0.0,45.0,12,109.611,0.0,19,7.0,9,18,18,0,+1 Lap
+1107,2023,9,70,1688256000,46800,Red Bull Ring,Spielberg,Austria,839,Ocon,French,214,Alpine F1 Team,12,14,0.0,70,0.0,46.0,14,109.786,31.0,9,47.0,5,12,7,2,+1 Lap
+1107,2023,9,70,1688256000,46800,Red Bull Ring,Spielberg,Austria,822,Bottas,Finnish,51,Alfa Romeo,14,15,0.0,70,0.0,46.0,16,109.852,5.0,15,9.0,8,14,20,0,+1 Lap
+1107,2023,9,70,1688256000,46800,Red Bull Ring,Spielberg,Austria,857,Piastri,Australian,1,McLaren,13,16,0.0,70,0.0,49.0,18,109.94,5.0,14,29.0,6,13,11,0,+1 Lap
+1107,2023,9,70,1688256000,46800,Red Bull Ring,Spielberg,Austria,856,de Vries,Dutch,213,AlphaTauri,0,17,0.0,70,0.0,46.0,17,109.862,0.0,20,2.0,10,20,17,0,+1 Lap
+1107,2023,9,70,1688256000,46800,Red Bull Ring,Spielberg,Austria,825,Magnussen,Danish,210,Haas F1 Team,0,18,0.0,70,0.0,45.0,13,109.62,2.0,18,11.0,7,19,14,0,+1 Lap
+1107,2023,9,70,1688256000,46800,Red Bull Ring,Spielberg,Austria,852,Tsunoda,Japanese,213,AlphaTauri,16,19,0.0,70,0.0,37.0,19,110.176,2.0,17,2.0,10,16,16,0,+1 Lap
+1107,2023,9,70,1688256000,46800,Red Bull Ring,Spielberg,Austria,807,Hülkenberg,German,210,Haas F1 Team,8,20,0.0,12,0.0,7.0,20,111.066,9.0,12,11.0,7,8,6,3,Power loss
+1110,2023,12,13,1690675200,46800,Circuit de Spa-Francorchamps,Spa,Belgium,830,Verstappen,Dutch,9,Red Bull,6,1,25.0,44,4950450.0,32.0,2,148.922,314.0,1,503.0,1,1,1,8,Finished
+1110,2023,12,13,1690675200,46800,Circuit de Spa-Francorchamps,Spa,Belgium,815,Pérez,Mexican,9,Red Bull,2,2,18.0,44,4972755.0,31.0,6,150.308,189.0,2,503.0,1,3,19,0,Finished
+1110,2023,12,13,1690675200,46800,Circuit de Spa-Francorchamps,Spa,Belgium,844,Leclerc,Monegasque,6,Ferrari,1,3,15.0,44,4982709.0,30.0,7,150.436,99.0,5,191.0,4,2,5,4,Finished
+1110,2023,12,13,1690675200,46800,Circuit de Spa-Francorchamps,Spa,Belgium,1,Hamilton,British,131,Mercedes,3,4,13.0,44,5000121.0,44.0,1,147.305,148.0,4,247.0,2,4,7,2,Finished
+1110,2023,12,13,1690675200,46800,Circuit de Spa-Francorchamps,Spa,Belgium,4,Alonso,Spanish,117,Aston Martin,9,5,10.0,44,5006634.0,42.0,13,150.938,149.0,3,196.0,3,9,20,0,Finished
+1110,2023,12,13,1690675200,46800,Circuit de Spa-Francorchamps,Spa,Belgium,847,Russell,British,131,Mercedes,8,6,8.0,44,5013551.0,25.0,11,150.603,99.0,6,247.0,2,8,8,1,Finished
+1110,2023,12,13,1690675200,46800,Circuit de Spa-Francorchamps,Spa,Belgium,846,Norris,British,1,McLaren,7,7,6.0,44,5024169.0,26.0,18,151.682,69.0,8,103.0,5,7,6,3,Finished
+1110,2023,12,13,1690675200,46800,Circuit de Spa-Francorchamps,Spa,Belgium,839,Ocon,French,214,Alpine F1 Team,14,8,4.0,44,5025169.0,27.0,8,150.439,35.0,10,57.0,6,15,9,0,Finished
+1110,2023,12,13,1690675200,46800,Circuit de Spa-Francorchamps,Spa,Belgium,840,Stroll,Canadian,117,Aston Martin,10,9,2.0,44,5029790.0,26.0,16,151.297,47.0,9,196.0,3,10,11,0,Finished
+1110,2023,12,13,1690675200,46800,Circuit de Spa-Francorchamps,Spa,Belgium,852,Tsunoda,Japanese,213,AlphaTauri,11,10,1.0,44,5030671.0,26.0,17,151.394,3.0,17,3.0,10,11,18,0,Finished
+1110,2023,12,13,1690675200,46800,Circuit de Spa-Francorchamps,Spa,Belgium,842,Gasly,French,214,Alpine F1 Team,12,11,0.0,44,5033534.0,25.0,12,150.911,22.0,12,57.0,6,12,3,6,Finished
+1110,2023,12,13,1690675200,46800,Circuit de Spa-Francorchamps,Spa,Belgium,822,Bottas,Finnish,51,Alfa Romeo,13,12,0.0,44,5035641.0,26.0,10,150.515,5.0,15,9.0,9,14,13,0,Finished
+1110,2023,12,13,1690675200,46800,Circuit de Spa-Francorchamps,Spa,Belgium,855,Zhou,Chinese,51,Alfa Romeo,17,13,0.0,44,5045891.0,27.0,5,150.188,4.0,16,9.0,9,17,15,0,Finished
+1110,2023,12,13,1690675200,46800,Circuit de Spa-Francorchamps,Spa,Belgium,848,Albon,Thai,3,Williams,15,14,0.0,44,5046634.0,35.0,3,149.841,11.0,13,11.0,7,16,12,0,Finished
+1110,2023,12,13,1690675200,46800,Circuit de Spa-Francorchamps,Spa,Belgium,825,Magnussen,Danish,210,Haas F1 Team,16,15,0.0,44,5052204.0,27.0,14,150.993,2.0,18,11.0,8,13,14,0,Finished
+1110,2023,12,13,1690675200,46800,Circuit de Spa-Francorchamps,Spa,Belgium,817,Ricciardo,Australian,213,AlphaTauri,19,16,0.0,44,5053521.0,25.0,15,150.994,0.0,21,3.0,10,19,10,0,Finished
+1110,2023,12,13,1690675200,46800,Circuit de Spa-Francorchamps,Spa,Belgium,858,Sargeant,American,3,Williams,18,17,0.0,44,5054926.0,37.0,9,150.486,0.0,19,11.0,7,18,16,0,Finished
+1110,2023,12,13,1690675200,46800,Circuit de Spa-Francorchamps,Spa,Belgium,807,Hülkenberg,German,210,Haas F1 Team,0,18,0.0,44,5060900.0,26.0,4,149.907,9.0,14,11.0,8,20,17,0,Finished
+1110,2023,12,13,1690675200,46800,Circuit de Spa-Francorchamps,Spa,Belgium,832,Sainz,Spanish,6,Ferrari,4,19,0.0,23,0.0,9.0,19,153.138,92.0,7,191.0,4,5,4,5,Collision damage
+1110,2023,12,13,1690675200,46800,Circuit de Spa-Francorchamps,Spa,Belgium,857,Piastri,Australian,1,McLaren,5,20,0.0,0,0.0,,0,0.0,34.0,11,103.0,5,6,2,7,Collision damage
