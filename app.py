@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import joblib
 from sklearn.preprocessing import PolynomialFeatures
-from PIL import Image
+from PIL import Image, UnidentifiedImageError
 
 # Load the combined data to get the mappings
 combined_data = pd.read_csv("combined_data.csv")
@@ -65,11 +65,17 @@ def predict_finishing_position(track, driver, starting_grid):
     return rounded_prediction
 
 # Streamlit app
-st.markdown("""
-    <div style="text-align: center; font-size: 60px; color: red; font-family: 'Formula 1';">
-        F1 Predictive Model
-    </div>
-""", unsafe_allow_html=True)
+
+# Display title with logo
+logo, title = st.columns([1.5, 4])
+with logo:
+    st.image("logo/f1_logo.png", width=100)
+with title:
+    st.markdown("""
+        <div style="font-size: 35px; color: red; font-family: 'Formula 1';">
+            F1 Predictive Model
+        </div>
+    """, unsafe_allow_html=True)
 
 # List of drivers
 drivers_list = {
@@ -126,5 +132,3 @@ if st.button('Predict'):
             {predicted_position}
         </div>
     """, unsafe_allow_html=True)
-
-
