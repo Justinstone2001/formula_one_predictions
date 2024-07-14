@@ -4,26 +4,19 @@ import joblib
 from sklearn.preprocessing import PolynomialFeatures
 from PIL import Image, UnidentifiedImageError
 
-# Load the combined data to get the mappings
-combined_data = pd.read_csv("combined_data.csv")
+combined_data = pd.read_csv("cleaned_data/combined_data.csv")
+best_model = joblib.load('models/f1_finishing_position_predictor.pkl')
+poly = joblib.load('models/poly_transformer.pkl')
+features_columns = joblib.load('models/features_columns.pkl')
 
-# Load the saved model
-best_model = joblib.load('f1_finishing_position_predictor.pkl')
-
-# Load the saved polynomial features transformer
-poly = joblib.load('poly_transformer.pkl')
-
-# Load the features columns
-features_columns = joblib.load('features_columns.pkl')
-
-# Function to safely get values
+# Safely get values even with no data
 def safe_get_value(series, default_value=0):
     try:
         return series.values[0]
     except IndexError:
         return default_value
 
-# Function to predict finishing position
+# Predict finishing position function 
 def predict_finishing_position(track, driver, starting_grid):
     input_data = {
         'Track': [track],
@@ -66,18 +59,18 @@ def predict_finishing_position(track, driver, starting_grid):
 
 # Streamlit app
 
-# Display title with logo
-logo, title = st.columns([1.5, 4])
-with logo:
+col1, col2, col3 = st.columns([1, 3, 1])
+
+with col1:
     st.image("logo/f1_logo.png", width=100)
-with title:
+
+with col2:
     st.markdown("""
-        <div style="font-size: 35px; color: red; font-family: 'Formula 1';">
+        <div style="font-size: 30px; color: red; font-family: 'Formula 1'; text-align: center;">
             F1 Predictive Model
         </div>
     """, unsafe_allow_html=True)
-
-# List of drivers
+    
 drivers_list = {
     'Alpine': ['Pierre Gasly', 'Esteban Ocon'],
     'Aston Martin': ['Fernando Alonso', 'Lance Stroll'],
@@ -91,7 +84,6 @@ drivers_list = {
     'Williams': ['Alex Albon', 'Logan Sargeant']
 }
 
-# Flatten the list of drivers
 drivers = [driver for team in drivers_list.values() for driver in team]
 
 tracks = combined_data['Track'].unique()
@@ -104,7 +96,6 @@ try:
     st.image(track_image, caption=f"{track} Race Track", use_column_width=True)
 except FileNotFoundError:
     st.write(f"Image for {track} not found.")
-
 
 driver = st.selectbox('Select Driver', drivers)
 
@@ -121,7 +112,6 @@ except UnidentifiedImageError:
 
 starting_grid = st.slider('Select Starting Grid Position', 1, 20, 1)
 
-
 if st.button('Predict'):
     predicted_position = predict_finishing_position(track, driver, starting_grid)
     st.markdown(f"""
@@ -132,3 +122,4 @@ if st.button('Predict'):
             {predicted_position}
         </div>
     """, unsafe_allow_html=True)
+
